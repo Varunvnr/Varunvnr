@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building foundational projects as an aspiring Software Developer**
 
-- 🌱 I’m currently learning **avaScript, React, and modern frontend development**
+- 🌱 I’m currently learning **JavaScript, React, and modern frontend development**
 
 - 👯 I’m looking to collaborate on **Beginner-friendly open-source projects**
 
